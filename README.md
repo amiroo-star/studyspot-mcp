@@ -2,6 +2,8 @@
 
 EECE 503P/798S Agentic Systems · C5 Agent Tools · Amir Darwich
 
+**Screencast:** https://youtu.be/tud3v_CfofQ
+
 StudySpot lets an AI agent find and book group study rooms in AUB libraries. It is an MCP server with **exactly three tools**, built with FastMCP and driven by an OpenAI Agents SDK agent.
 
 ![architecture](docs/architecture.svg)
@@ -93,5 +95,5 @@ docs/  summary.md · reflection.md · security.md · demo_script.md · architect
 
 - Written summary: [`docs/summary.md`](docs/summary.md) (PDF with reflection: [`docs/writeup.pdf`](docs/writeup.pdf))
 - Reflection: [`docs/reflection.md`](docs/reflection.md)
-- Screencast: _add link here_
-- Repository: _add GitHub link here_
+- Screencast: https://youtu.be/tud3v_CfofQ
+- Repository: https://github.com/amiroo-star/studyspot-mcp
